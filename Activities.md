@@ -28,7 +28,7 @@
             (PPT)
           </a>
         </li>
-        <li><a href="pendiente slid.o">Q&A ReadMe del Proyecto</a></li>
+        <li><a href="https://app.sli.do/event/my11Y8ybdY3WtMKLpK7vxK">Q&A readme del proyecto</a></li>
       </ul>
     </td>
     <td>NA</td>
