@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td>13 de marzo</td>
+    <td>13.03.23</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -74,7 +74,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 14.03.23. Versión inicial de CV y Linkedin listo el 31.03.23</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -125,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 03.04.23 al 18.04.23</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -157,7 +157,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Lunes 03.04.23</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -180,7 +180,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">Semana del 10.04.23, por definir</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -232,7 +232,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 17.04.23 al 21.04.23</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
