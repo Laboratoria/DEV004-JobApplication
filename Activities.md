@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>14.03.23 y 21.03.23</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
