@@ -24,7 +24,7 @@
         <li><a href="https://github.com/Laboratoria/DEV004-JobApplication">Read me del Proyecto</a> </li>
         <li> 
           <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pildora: Cómo funciona un proceso de selección</a>
-          <a href="https://docs.google.com/presentation/d/17xch4mAAjUGS6H7rTosIK2UBRJoCrrNAIWta-CldLUw/edit#slide=id.geb2e9575b7_0_0">
+          <a href="https://docs.google.com/presentation/d/13xUnc2c-R82ovbKWNBApQ-yaN6qlVZAFOupGfUnft-A/edit?usp=sharing">
             (PPT)
           </a>
         </li>
