@@ -251,7 +251,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 01.05.23 al 12.05.23</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -310,7 +310,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 16.05.23</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -328,7 +328,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 27.04.23 y 11.05.23</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -348,7 +348,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 24.04.23</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -381,7 +381,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 18.05.23, por definir</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -405,7 +405,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 22.05.23 al 02.06.23</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -468,7 +468,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 08.06.23</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
@@ -487,7 +487,7 @@
   </tr>
   <tr>
     <td><b>Project Feedback</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Por definir</td>
     <td>
       <b>Project Feedback:</b>
       <p>
