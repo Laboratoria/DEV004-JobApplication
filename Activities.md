@@ -53,13 +53,12 @@
     </td>
     <td>
       <ul>
-        <li>Pre work del taller (slide 2 de la PPT del taller).</li>
         <li>
           <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0">
             Taller: Historia de vida y habilidades transferibles.
           </a>
           <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">
-            (Pre-work)
+            (Pre-work: diapo #2)
           </a>
         </li>
         <li>
@@ -125,7 +124,7 @@
     </td>
   </tr>
   <tr>
-    <td>Desde el 03.04.23 al 18.04.23</td>
+    <td>Desde el 03.04.23 al 14.04.23</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
