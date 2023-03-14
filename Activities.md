@@ -54,7 +54,7 @@
     <td>
       <ul>
         <li>
-          <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0">
+          <a href="https://docs.google.com/presentation/d/14LdAyQvxzSQJEkqOd_1BTy-9uIyc-ruhoVGwnUIz7Xk/edit?usp=sharing">
             Taller: Historia de vida y habilidades transferibles.
           </a>
           <a href="https://docs.google.com/presentation/d/14LdAyQvxzSQJEkqOd_1BTy-9uIyc-ruhoVGwnUIz7Xk/edit?usp=sharing">
