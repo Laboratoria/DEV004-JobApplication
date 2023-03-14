@@ -62,7 +62,7 @@
           </a>
         </li>
         <li>
-          <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0">
+          <a href="https://docs.google.com/presentation/d/1O4Oj8t3hmLlYrWMJUyeaN8WDdbJHs5gx4KZvjGQmjVY/edit?usp=sharing">
             Píldora: About me y pitch.
           </a>
         </li>
