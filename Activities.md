@@ -111,7 +111,9 @@
             (PPT)
           </a>
         </li>
-        <li>OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
+        <li>
+          <a href="https://docs.google.com/spreadsheets/d/1GG5ca6wQGbsrpzX8_NIqeZoLRZIqBpd9z8MH1U130Ao/edit#gid=531368085">
+            OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
         <li>Q&A externxs / placement.</li>
       </ul>
     </td>
@@ -188,7 +190,9 @@
     </td>
     <td rowspan="2">
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me)</li>
+        <li>
+          <a href="https://github.com/Laboratoria/DEV004-JobApplication/blob/main/Mentoring.md">
+          Guía sesiones de mentoría (apartado en el read me)</li>
       </ul>
     </td>
     <td>Primera versión del CV</td>
@@ -239,6 +243,9 @@
       </p>
     </td>
     <td>
+       <ul>
+        <li>
+          <a href="https://github.com/Laboratoria/DEV004-JobApplication/blob/main/Mentoring.md">
       Guía sesiones de mentoría (apartado en el read me).
     </td>
     <td>
@@ -261,8 +268,11 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
         <li>
+          <a href="https://github.com/Laboratoria/DEV004-JobApplication/blob/main/Mentoring.md">
+          Guía sesiones de mentoría (apartado en el read me).</li>
+        <li>
+          <a href="https://forms.gle/yXDuMERcQhTTap4d9">
           Form autoevaluación estudiante y evaluación a mentora/or
         </li>
       </ul>
@@ -418,8 +428,12 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>Form autoevaluación estudiante y evaluación a mentora/or.</li>
+        <li>
+          <a href="https://github.com/Laboratoria/DEV004-JobApplication/blob/main/Mentoring.md">
+          Guía sesiones de mentoría (apartado en el read me).
+        <li>
+          <a href="https://forms.gle/Pfi95aKkTSy17Qyt5">
+          Form autoevaluación estudiante y evaluación a mentora/or.
       </ul>
     </td>
     <td>
