@@ -390,7 +390,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td>Semana del 18.05.23, por definir</td>
+    <td>Semana del 15.05.23, por definir</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
