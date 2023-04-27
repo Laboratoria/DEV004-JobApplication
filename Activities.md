@@ -376,8 +376,7 @@
           </a>
         </li>
         <li>
-          OH para ver perfil de Github (son opcionales y puedes usar las que
-          ya tienen disponibles lxs coaches).
+          OH para ver perfil de Github (son opcionales y asincronicas).
         </li>
       </ul>
     </td>
