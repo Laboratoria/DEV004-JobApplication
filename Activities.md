@@ -181,7 +181,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2">Semana del 10.04.23, por definir</td>
+    <td rowspan="2">Semana del 10.04.23, martes 11.04 a las 4pm MX/5pm PE, CO, EC/6pm CL </td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
